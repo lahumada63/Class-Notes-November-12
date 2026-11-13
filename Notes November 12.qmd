@@ -1,0 +1,56 @@
+---
+title: "IBM 6500 - 11/12 Class Notes"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-expand: 1
+    embed-resources: true
+execute:
+  freeze: auto
+---
+
+# Introduction
+
+# Testing Hypothesis (Cont'd)
+
+- [Case 31 Analysis Presentation](https://jaejungca.github.io/case31/Jung_Jae_case31_analysis_present-all.html#/title-slide)
+
+# EFA (Exploratory Factor Analysis) & PCA (Principal Component Analysis)
+
+## W12-1
+
+- PCA & EFA
+- Reliability
+- Case 31 - Reliability & Factor Analysis for R3 & R6
+  - R3: Attitude toward Employee Proficiency
+  - R6: Attitude toward Credit Unions' Operational Efficiency
+- Unidimensional & Reliable --\> Composite index
+
+## W12-2: Hypothesis Testing
+
+- t-tests
+  - One-group t-test
+  - Two-groups t-test
+  - Paired group t-test
+- ANOVA
+- R3, R6, and R4
+- Case 31: H1, H2
+
+## W12-3: Regression
+
+- Step 1: Regression - Ch18
+- Step 2: Regression - Assumptions - IBM 6510
+- Case 31: H5a-H5d: Same DV, different IVs
+
+# CFA (Confirmatory Factor Analysis)
+
+- W12-4: SEM Overview using My Research
+- W12-5: Convergent & Discriminant Validity, & CMB
+- Assignment: Note taking for CMB article
+
+Appendix
+
+GitRepo
+
+GitPages
