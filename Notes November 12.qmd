@@ -49,8 +49,8 @@ execute:
 - W12-5: Convergent & Discriminant Validity, & CMB
 - Assignment: Note taking for CMB article
 
-Appendix
+## Appendix
 
-GitRepo
+[GitRepo](https://github.com/lahumada63/Class-Notes-November-12.git)
 
-GitPages
+[GitPages](https://lahumada63.github.io/Class-Notes-November-12/)
